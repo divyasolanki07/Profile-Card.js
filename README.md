@@ -5,7 +5,7 @@ Perfect for portfolios, personal websites, and showcasing your skills! 🚀
 
 ---
 
-## 🎯 Features / Notes  
+## 🎯 Features
 
 - 👤 Profile Picture / Avatar  
 - 📝 Name & Role  
